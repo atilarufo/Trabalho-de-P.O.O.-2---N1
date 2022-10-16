@@ -1,4 +1,4 @@
-# Trabalho-de-P.O.O.-2 - N1
+# Trabalho de P.O.O.-2 - N1
 
 
 Este repositório contém as questões do segundo trabalho de Programação Orientada à Objetos, realizado pelos alunos Átila Rufo Araujo Mendes da Silva e Layssa Rachel Santos de Oliveira, do curso Integrado em Informática, P3, semestre 2022.2.
