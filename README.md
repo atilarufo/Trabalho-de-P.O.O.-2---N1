@@ -1,9 +1,8 @@
 # Trabalho-de-P.O.O.-2 - N1
 
 
-Este repositório contém as questões do segundo trabalho de P.O.O., realizado pela equipe Átila Rufo Araujo Mendes da Silva e Layssa Rachel Santos de Oliveira, do curso Integrado em Informática, P3, semestre 2022.2.
-  As pastas de cada questão possuem o enunciado da questão bem como a resolução na linguagem em Java e os arquivos
-necessários para rodar o script. 
+Este repositório contém as questões do segundo trabalho de Programação Orientada à Objetos, realizado pelos alunos Átila Rufo Araujo Mendes da Silva e Layssa Rachel Santos de Oliveira, do curso Integrado em Informática, P3, semestre 2022.2.
+  As pastas de cada questão possuem o enunciado da questão bem como a resolução na linguagem em Java e os arquivos necessários para rodar o script. 
 
 
 ## Questões
